@@ -1,1 +1,1 @@
-# PROJET2
+Le projet vise à nous mettre dans la peau d'expert en informatique pendant une journée.
